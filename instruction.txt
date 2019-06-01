@@ -1,0 +1,13 @@
+
+First, my team can not provides an executable file. Because model uses a lag 12 days up to now for each prediction. So if committee take only a single row of test data on the command line, my model can not work and give prediction. Please give test data structure like test dataset (use to score and submit).
+
+Libraries: pandas, numpy, matplotlib, sklearn, keras.
+
+Model: recurrent neural network (LSTM)
+
+Instruction:
+1. Please add to folder "data" train and test file csv.
+2. Run file "model-LSTM-final.ipynb"
+3. Get file "submit_final.csv" at folder "result"
+
+
